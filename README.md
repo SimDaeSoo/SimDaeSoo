@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi there 👋 my name is daesoo i'm junior web developer 💻<br/>
+
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100002782422483)](https://www.facebook.com/profile.php?id=100002782422483) [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dae_soo_94/)](https://www.instagram.com/dae_soo_94/)
+
+- 🔭 I'm currently working on smartstudy company as web developer
+- 🌱 I'm currently learning js, ts, docker, aws, etc...
+- 💬 These days i'm making a transcoder for animate cc and after effect
+- 😄 I like making services for our company peoples
+- 👨🏻‍💻 I'm Interested in ffmpeg, web-game, webrtc, socket and new apple device
+
+**Languages and Tools**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/webpack/webpack.png"></code>
 
 <!--
 **SimDaeSoo/SimDaeSoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
