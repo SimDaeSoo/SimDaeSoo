@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on smartstudy company as web developer
 - 🌱 I'm currently learning js, ts, docker, aws, etc...
-- 💬 These days i'm making a transcoder for animate cc and after effect
+- 💬 These days i'm making a transcoder using ffmpeg
 - 😄 I like making services for our company peoples
 - 👨🏻‍💻 I'm Interested in ffmpeg, web-game, webrtc, socket and new apple device
 
