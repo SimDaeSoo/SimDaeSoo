@@ -9,8 +9,8 @@
 - 👨🏻‍💻 I'm Interested in ffmpeg, web-game, webrtc, socket and new apple device
 
 **Career**  
-- Nexon Korea devCat studio / 2018 ~ 2020
-- Smart Study / 2020 ~
+- Nexon Korea devCat studio / web developer / 2018 ~ 2020
+- Smart Study / web developer / 2020 ~
 
 **Languages and Tools**  
 
