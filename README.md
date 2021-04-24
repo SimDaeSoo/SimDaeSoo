@@ -8,6 +8,10 @@
 - 😄 I like making services for our company peoples
 - 👨🏻‍💻 I'm Interested in ffmpeg, web-game, webrtc, socket and new apple device
 
+**Career**  
+- Nexon Korea devCat studio / 2018 ~ 2020
+- Smart Study / 2020 ~
+
 **Languages and Tools**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nodejs/nodejs.png"></code>
