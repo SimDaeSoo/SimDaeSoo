@@ -2,8 +2,8 @@
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100002782422483)](https://www.facebook.com/profile.php?id=100002782422483) [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dae_soo_94/)](https://www.instagram.com/dae_soo_94/)
 
-Nexon Korea / web developer / 2018 ~ 2020  
-Smart Study / web developer / 2020 ~  
+Nexon Korea / 2018 ~ 2020  
+Smart Study / 2020 ~  
 
 ---
 
