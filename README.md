@@ -16,8 +16,8 @@ Smart Study / 2020 ~
 <br/>
 
 <a href="https://github.com/simdaesoo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=simdaesoo&show_icons=true&theme=dark&count_private=true" alt="daesoo's github stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simdaesoo&theme=dark&layout=compact" alt="daesoo's github top languages" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=simdaesoo&show_icons=true&theme=dark&count_private=true" alt="daesoo's github stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simdaesoo&theme=dark&layout=compact" alt="daesoo's github top languages" />
 </a>
 
 <br/>
