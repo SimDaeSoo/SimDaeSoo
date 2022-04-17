@@ -1,15 +1,15 @@
 ![image](https://user-images.githubusercontent.com/22269524/145799143-cc82f0bd-119f-4567-9822-b52e1bc5eb1d.png)
 
-### Hi there 👋 my name is daesoo i'm junior web developer 💻<br/>
+### Hi there 👋 my name is daesoo 💻<br/>
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100002782422483)](https://www.facebook.com/profile.php?id=100002782422483) [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dae_soo_94/)](https://www.instagram.com/dae_soo_94/)
 
 Nexon Korea / 2018 ~ 2020  
-Smart Study / 2020 ~  
+The Pinkfong Company / 2020 ~  
 
 ---
 
-- 👨🏻‍💻 I'm currently working on smartstudy company as web developer
+- 👨🏻‍💻 I'm currently working on the pinkfong company as developer
 - 👨🏻‍🏫 I'm currently learning js, ts, docker, aws, etc...
 - 👨🏻‍🔧 These days i'm making a transcoder using ffmpeg
 - 😄 I like making services for our company peoples
