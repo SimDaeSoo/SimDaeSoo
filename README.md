@@ -7,16 +7,6 @@
 Nexon Korea / 2018 ~ 2020  
 The Pinkfong Company / 2020 ~  
 
----
-
-- 👨🏻‍💻 I'm currently working on the pinkfong company as developer
-- 👨🏻‍🏫 I'm currently learning js, ts, docker, aws, etc...
-- 👨🏻‍🔧 These days i'm making a transcoder using ffmpeg
-- 😄 I like making services for our company peoples
-- 💻 I'm Interested in ffmpeg, web-game, webrtc, socket and new apple device 🤣
-
-<br/>
-
 <a href="https://github.com/simdaesoo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=simdaesoo&show_icons=true&theme=dark&count_private=true" alt="daesoo's github stats" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simdaesoo&theme=dark&layout=compact" alt="daesoo's github top languages" />
