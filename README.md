@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is daesoo 💻<br/>
 
-Nexon Korea / 2018 ~ 2020  
-The Pinkfong Company / 2020 ~ Now 
+- Nexon Korea / 2018 ~ 2020  
+- The Pinkfong Company / 2020 ~ Now 
 
 #### Projects
 - VIMS [Server & Client] - Video Information Management System  
