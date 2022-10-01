@@ -1,9 +1,10 @@
 ### Hi there 👋 my name is daesoo 💻<br/>
 
+#### 👨🏻‍💻 Work history
 - Nexon Korea / 2018 ~ 2020  
 - The Pinkfong Company / 2020 ~ Now 
 
-#### Projects
+#### 🛠 Projects
 - VIMS [Server & Client] - Video Information Management System  
 (video transcoding, ftp, youtube upload, thumbnail generation... etc)
 - [Baby shark world](https://apps.apple.com/us/app/baby-shark-world-for-kids/id1596897739) [Server] - Kids video streaming & game service
