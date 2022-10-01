@@ -3,7 +3,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100002782422483)](https://www.facebook.com/profile.php?id=100002782422483) [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dae_soo_94/)](https://www.instagram.com/dae_soo_94/)
 
 Nexon Korea / 2018 ~ 2020  
-The Pinkfong Company / 2020 ~  
+The Pinkfong Company / 2020 ~ Now 
 
 #### Projects
 - VIMS [Server & Client] - Video Information Management System  
