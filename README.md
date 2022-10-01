@@ -10,7 +10,7 @@ The Pinkfong Company / 2020 ~ Now
 - In house live streaming service [Server & Client] - using aws ivs live streaming service
 - [Baby shark story book](https://assistant.google.com/services/invoke/uid/000000d45579d481/alm/CgT5CtN7EgIQAQ==?hl=en) [Client] - web & actions on google conversation based client application
 - [Ninimo Adventure](https://ninimo.pinkfong.com/) [Server & Client] - ninimo ip web game
-- Local on promise transcoder maintenance
+- Local on premise transcoder maintenance
 - ETC...  
 
 <a href="https://github.com/simdaesoo">
