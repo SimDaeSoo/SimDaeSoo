@@ -1,11 +1,19 @@
-![image](https://user-images.githubusercontent.com/22269524/145799143-cc82f0bd-119f-4567-9822-b52e1bc5eb1d.png)
-
 ### Hi there 👋 my name is daesoo 💻<br/>
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100002782422483)](https://www.facebook.com/profile.php?id=100002782422483) [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dae_soo_94/)](https://www.instagram.com/dae_soo_94/)
 
 Nexon Korea / 2018 ~ 2020  
 The Pinkfong Company / 2020 ~  
+
+#### Projects
+- VIMS [Server & Client] - Video Information Management System  
+(video transcoding, ftp, youtube upload, thumbnail generation... etc)
+- [Baby shark world](https://apps.apple.com/us/app/baby-shark-world-for-kids/id1596897739) [Server] - Kids video streaming & game service
+- In house live streaming service [Server & Client] - using aws ivs live streaming service
+- [Baby shark story book](https://assistant.google.com/services/invoke/uid/000000d45579d481/alm/CgT5CtN7EgIQAQ==?hl=en) [Client] - web & actions on google conversation based client application
+- [Ninimo Adventure](https://ninimo.pinkfong.com/) [Server & Client] - ninimo ip web game
+- Local on promise transcoder maintenance
+- ETC...  
 
 <a href="https://github.com/simdaesoo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=simdaesoo&show_icons=true&theme=dark&count_private=true" alt="daesoo's github stats" />
