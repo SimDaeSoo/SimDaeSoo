@@ -1,8 +1,8 @@
 ### Hi there 👋 my name is daesoo 💻<br/>
 
 #### 👨🏻‍💻 Work history
-- Nexon Korea / 2018 ~ 2020  
-- The Pinkfong Company / 2020 ~ Now 
+- [Nexon Korea](https://company.nexon.com/) ( 2018 ~ 2020 )  
+- [The Pinkfong Company](https://thepinkfongcompany.com/) ( 2020 ~ )  
 
 #### 🛠 Projects
 - VIMS [Server & Client] - Video Information Management System  
@@ -10,7 +10,7 @@
 - [Baby shark world](https://apps.apple.com/us/app/baby-shark-world-for-kids/id1596897739) [Server] - Kids video streaming & game service
 - In house live streaming service [Server & Client] - using aws ivs live streaming service
 - [Baby shark story book](https://assistant.google.com/services/invoke/uid/000000d45579d481/alm/CgT5CtN7EgIQAQ==?hl=en) [Client] - web & actions on google conversation based client application
-- [Ninimo Adventure](https://ninimo.pinkfong.com/) [Server & Client] - ninimo ip web game
+- [Ninimo adventure](https://ninimo.pinkfong.com/) [Server & Client] - ninimo ip web game
 - Local on premise transcoder maintenance
 - ETC...  
 
