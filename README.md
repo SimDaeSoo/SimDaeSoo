@@ -1,9 +1,7 @@
 ![company image](https://github.com/SimDaeSoo/SimDaeSoo/blob/main/image.jpeg)
 
 ### Hi there 👋 my name is daesoo 💻<br/>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simdaesoo&theme=github_dark"/>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simdaesoo&theme=github_dark)
 
 #### 👨🏻‍💻 Work history
 - [Nexon Korea](https://company.nexon.com/) ( 2018 ~ 2020 )  
