@@ -1,3 +1,5 @@
+![company image](https://github.com/SimDaeSoo/SimDaeSoo/blob/main/image.jpeg)
+
 ### Hi there 👋 my name is daesoo 💻<br/>
 
 #### 👨🏻‍💻 Work history
