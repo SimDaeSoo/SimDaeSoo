@@ -1,7 +1,6 @@
 ![company image](https://github.com/SimDaeSoo/SimDaeSoo/blob/main/image.jpeg)
 
 ### Hi there 👋 my name is daesoo 💻<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simdaesoo&theme=github_dark" alt="profile"/>
 
 #### 👨🏻‍💻 Work history
 - [Nexon Korea](https://company.nexon.com/) ( 2018 ~ 2020 )  
@@ -17,7 +16,8 @@
 - Local on premise transcoder maintenance
 - ETC...  
 
-#### ⚙️ Used  
+#### ⚙️ Github profile summary  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simdaesoo&theme=github_dark" alt="profile"/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/typescript/typescript.png"></code>
@@ -27,7 +27,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/webpack/webpack.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/aws/aws.png"></code>
-
 <!--
 **SimDaeSoo/SimDaeSoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
