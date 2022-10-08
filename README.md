@@ -2,6 +2,8 @@
 
 ### Hi there 👋 my name is daesoo 💻<br/>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simdaesoo&theme=github_dark)
+
 #### 👨🏻‍💻 Work history
 - [Nexon Korea](https://company.nexon.com/) ( 2018 ~ 2020 )  
 - [The Pinkfong Company](https://thepinkfongcompany.com/) ( 2020 ~ )  
@@ -15,14 +17,6 @@
 - [Ninimo adventure](https://ninimo.pinkfong.com/) [Server & Client] - ninimo ip web game
 - Local on premise transcoder maintenance
 - ETC...  
-
-<a href="https://github.com/simdaesoo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=simdaesoo&show_icons=true&theme=dark&count_private=true" alt="daesoo's github stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simdaesoo&theme=dark&layout=compact" alt="daesoo's github top languages" />
-</a>
-
-<br/>
-<br/>
 
 **Languages and Tools**  
 
