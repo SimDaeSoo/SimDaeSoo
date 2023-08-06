@@ -11,10 +11,10 @@
 (video transcoding, ftp, youtube upload, thumbnail generation... etc)
 - Asset Library [Server & Client] - 3d assets publish & management system
 - [Baby shark world](https://apps.apple.com/us/app/baby-shark-world-for-kids/id1596897739) [Server] - Kids video streaming & game service
-- In house live streaming service [Server & Client] - using aws ivs live streaming service
+- Company live broadcast streaming service [Server & Client] - using aws ivs live streaming service
 - [Baby shark story book](https://assistant.google.com/services/invoke/uid/000000d45579d481/alm/CgT5CtN7EgIQAQ==?hl=en) [Client] - web & actions on google conversation based client application
 - [Ninimo adventure](https://ninimo.pinkfong.com/) [Server & Client] - ninimo ip web game
-- Local on premise transcoder maintenance
+- On premise transcoder maintenance
 - ETC...  
 
 #### ⚙️ Github profile summary  
