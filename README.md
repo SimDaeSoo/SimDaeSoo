@@ -1,12 +1,10 @@
-![company image](https://github.com/SimDaeSoo/SimDaeSoo/blob/main/image.jpeg)
+![company image](https://github.com/SimDaeSoo/SimDaeSoo/blob/main/IMG_6854.JPG)
 
-### Hi there 👋 my name is daesoo 💻<br/>
-
-#### 👨🏻‍💻 Work history
+#### Work history
 - [Nexon Korea](https://company.nexon.com/) ( 2018 ~ 2020 )  
 - [The Pinkfong Company](https://thepinkfongcompany.com/) ( 2020 ~ )  
 
-#### 🛠 Projects
+#### Projects
 - VIMS [Server & Client] - Video information management system  
 (video transcoding, ftp, youtube upload, thumbnail generation... etc)
 - Asset Library [Server & Client] - 3d assets publish & management system
@@ -17,10 +15,7 @@
 - On premise transcoder maintenance
 - ETC...  
 
-#### ⚙️ Github profile summary  
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simdaesoo&theme=github_dark" alt="profile"/>
-
-#### 📌 Skill & Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/docker/docker.png"></code>
