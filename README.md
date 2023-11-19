@@ -19,7 +19,7 @@
 
 #### My Goal
 I hope it helps a lot of people.
-Whether it's my company or another company, I personally believe that open source helps a lot of people, so my goal is to create great open source.
+Whether it's my company or another company, I personally believe that open source helps a lot of people, so my goal is to create great open source project.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simdaesoo&theme=github_dark" alt="profile"/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nodejs/nodejs.png"></code>
