@@ -6,7 +6,7 @@
 
 #### Projects
 - VIMS [Server & Client] - Video information management system  
-(video transcoding, NAS/Google Drive/Dropbox/Youtube/S3 storage unified storage services, image converting service, etc - services for multimedia production and distribution... etc)
+(video transcoding, NAS/Google Drive/Dropbox/Youtube/S3 unified storage services, image converting service, etc - services for multimedia production and distribution... etc)
 - Asset Library [Server & Client] - 3d assets publish & management system
 - [Baby shark world](https://apps.apple.com/us/app/baby-shark-world-for-kids/id1596897739) [Server] - Kids video streaming & game service
 - Baby shark world smart tv (webos, tizen) [Server & Client] - kids video streaming service 
