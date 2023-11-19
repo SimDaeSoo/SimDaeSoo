@@ -9,11 +9,17 @@
 (video transcoding, ftp, youtube upload, thumbnail generation... etc)
 - Asset Library [Server & Client] - 3d assets publish & management system
 - [Baby shark world](https://apps.apple.com/us/app/baby-shark-world-for-kids/id1596897739) [Server] - Kids video streaming & game service
+- Baby shark world smart tv (webos, tizen) [Server & Client] - kids video streaming service 
 - Company live broadcast streaming service [Server & Client] - using aws ivs live streaming service
 - [Baby shark story book](https://assistant.google.com/services/invoke/uid/000000d45579d481/alm/CgT5CtN7EgIQAQ==?hl=en) [Client] - web & actions on google conversation based client application
 - [Ninimo adventure](https://ninimo.pinkfong.com/) [Server & Client] - ninimo ip web game
+- Company broadcasting service [Server & Client]
 - On premise transcoder maintenance
-- ETC...  
+- ETC...
+
+#### My Goal
+I hope it helps a lot of people.
+Whether it's my company or another company, I personally believe that open source helps a lot of people, so my goal is to create great open source.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simdaesoo&theme=github_dark" alt="profile"/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nodejs/nodejs.png"></code>
