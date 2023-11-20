@@ -13,7 +13,6 @@
 - Company live broadcast streaming service [Server & Client] - using aws ivs live streaming service
 - [Baby shark story book](https://assistant.google.com/services/invoke/uid/000000d45579d481/alm/CgT5CtN7EgIQAQ==?hl=en) [Client] - web & actions on google conversation based client application
 - [Ninimo adventure](https://ninimo.pinkfong.com/) [Server & Client] - ninimo ip web game
-- Company broadcasting service [Server & Client]
 - On premise transcoder maintenance
 - ETC...
 
